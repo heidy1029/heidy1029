@@ -5,8 +5,19 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-## Mis Conocimientos
+<p align="left">
+🎓 Ingeniera Multimedia
 
+🎮 Apasionada por el desarrollo de videojuegos, experiencias interactivas y soluciones digitales innovadoras
+
+📝 roles en el ámbito: Game Development Director (Director de Desarrollo de Juegos)... líder... Programadora... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+
+📫 Contacto: **heidy1029diaz@gmail.com**
+<!--Intro end-->
+  </p>
+<br>
+
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <p align="left"> 
 
   <a> 
@@ -30,7 +41,7 @@
   </a>
   &emsp;
   <a>
-    <img alt="C#" src="	https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   </a>
   &emsp;
 
@@ -52,11 +63,6 @@
 </p>
 
 -----
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=viralbhadeshiya&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=viralbhadeshiya&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
   <br>
  </p>
 
