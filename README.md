@@ -26,11 +26,11 @@
   </a>
   &emsp;
    <a>
-    <img alt="Unity" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg">
+    <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" >
   </a>
   &emsp;
   <a>
-    <img alt="C#" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"/>
+    <img alt="C#" src="	https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   </a>
   &emsp;
 
