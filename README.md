@@ -1,6 +1,6 @@
 # Hola Soy Heidy Diaz👋
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+![](https://github.com/heidy1029/heidy1029/blob/main/Imagenes/Bannner.png)
 
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
