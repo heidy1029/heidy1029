@@ -26,11 +26,11 @@
   </a>
   &emsp;
    <a>
-    <img alt="Unity" src="https://img.shields.io/badge/-tensorflow-orange?logo=tensorflow&logoColor=white">
+    <img alt="Unity" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg">
   </a>
   &emsp;
   <a>
-    <img alt="C#" src="https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white"/>
+    <img alt="C#" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"/>
   </a>
   &emsp;
 
