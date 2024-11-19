@@ -6,13 +6,13 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <p align="left">
-🎓 Ingeniera Multimedia
+🎓 Multimedia Engineer
 
-🎮 Apasionada por el desarrollo de videojuegos, experiencias interactivas y soluciones digitales innovadoras
+🎮 Passionate about video game development, interactive experiences, and innovative digital solutions.
 
-📝 roles en el ámbito: Game Development Director (Director de Desarrollo de Juegos)... líder... Programadora... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+📝 Roles in the field: Game Development Director, Team Leader, Programmer, Entrepreneur, Freelance Developer... and who knows what the future holds ☺️
 
-📫 Contacto: **heidy1029diaz@gmail.com**
+📫 Contact: **heidy1029diaz@gmail.com**
 <!--Intro end-->
   </p>
 <br>
