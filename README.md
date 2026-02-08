@@ -9,11 +9,25 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <p align="left">
-🎓 Multimedia Engineer
+  
+## About Me 🌟
+  
+🎓 Multimedia Engineer | Frontend .NET Web & App Developer
 
-🎮 Passionate about video game development, interactive experiences, and innovative digital solutions.
+🌐📱 Frontend-focused .NET Developer specialized in building modern web applications and cross-platform apps, with a strong emphasis on UI architecture, performance, and user experience.
 
-📝 Roles in the field: Game Development Director, Team Leader, Programmer, Entrepreneur, Freelance Developer... and who knows what the future holds ☺️
+🧩 Web & App Frontend Expertise:
+- Blazor (Server & WebAssembly) for modern web frontends
+- ASP.NET (Razor Pages / MVC Views) for structured UI development
+- .NET MAUI for cross-platform applications (Android, iOS, Windows)
+-Component-based design, reusable UI systems, and responsive layouts
+
+⚛️ Modern Frontend Frameworks:
+
+- React – dynamic, component-driven user interfaces
+- Angular – scalable frontend applications with TypeScript
+
+🚀 Focused on delivering clean, maintainable, and scalable frontend solutions that bridge web and mobile experiences, leveraging the .NET ecosystem alongside modern JavaScript frameworks.
 
 📫 Contact: **heidy1029diaz@gmail.com**
 <!--Intro end-->
@@ -70,33 +84,7 @@
  </p>
 
 
-<div align="center">
-  <h1 align="center">Hi there I’m Milena 👋</h1>
-</div>
 
-<img src="https://github.com/MilenaRPotes/MilenaRPotes/blob/main/BannerPortafolioV2.png" alt="Milena Portfolio Banner">
-
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://emilenarpotes.itch.io)
-[![Instagram Dev](https://img.shields.io/badge/Instagram%20Dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/milenarpotesdev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milenarpotes/)
-
-## About Me 🌟
-
-🚀 Software Developer | Unity Programmer 
-💻 C# Developer specialized in building robust and scalable applications with:
-- ⚙️ WPF / WinForms / .NET MAUI – Desktop UI with MVVM pattern
-- 🌐 ASP.NET Core & REST APIs – Backend services and data processing
-- 💾 Entity Framework & SQLite – Reliable data persistence
-- 🧪 MVP & MVVM Architecture – Clean code organization and testable logic
-- 📦 NuGet & GitHub Packages – Package management and modularization
-- 🔐 Authentication & App Locking – App-level security and session control
-- 🧠 Problem-Solving Mindset – Focused on performance and user experience
-
-🎮 Unity Programmer creating immersive and interactive experiences for games:
-- 2D & 3D Game Development
-- Gameplay Mechanics
-- Assembly of 2D and 3D Environments
----
 
 ## Projects 💡
 
