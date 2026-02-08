@@ -85,34 +85,15 @@
 </tr>
 </table>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<p align="left"> 
+---
+## &nbsp;GitHub Analytics ⚙️
 
-  <a> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-   </a>
-  &emsp;
-   <a>
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  </a>
-  &emsp;
-  <a>
-    <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white"/>
-  </a>
-  &emsp; 
-  <a> 
-    <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  &emsp;
-   <a>
-    <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" >
-  </a>
-  &emsp;
-  <a>
-    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  </a>
-  &emsp;
-
+<p align="center">
+<a href="https://github.com/MilenaRPotes">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MilenaRPotes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MilenaRPotes&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ## Contactame 
 <p align="left">
@@ -139,12 +120,4 @@
 
 
 
----
-## &nbsp;GitHub Analytics ⚙️
 
-<p align="center">
-<a href="https://github.com/MilenaRPotes">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MilenaRPotes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MilenaRPotes&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
