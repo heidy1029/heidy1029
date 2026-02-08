@@ -6,12 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heidydiaza/)
 
-<img 
-  src="https://github.com/heidy1029/heidy1029/blob/main/Gitwomen.gif"
-  alt="Frontend .NET Developer"
-  align="right"
-  width="200"
-/>
 
 ## About Me 🌟
   
@@ -31,7 +25,12 @@
 - Angular – scalable frontend applications with TypeScript
 
 🚀 Focused on delivering clean, maintainable, and scalable frontend solutions that bridge web and mobile experiences, leveraging the .NET ecosystem alongside modern JavaScript frameworks.
-
+<img 
+  src="https://github.com/heidy1029/heidy1029/blob/main/Gitwomen.gif"
+  alt="Frontend .NET Developer"
+  align="right"
+  width="200"
+/>
 📫 Contact: **heidy1029diaz@gmail.com**
 <!--Intro end-->
   </p>
