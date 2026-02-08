@@ -6,9 +6,14 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heidydiaza/)
 
-<p><img align="right" src="https://github.com/heidy1029/heidy1029/blob/main/Gitwomen.gif" alt="adam-pw" /></p>
+<img 
+  src="https://github.com/heidy1029/heidy1029/blob/main/Gitwomen.gif"
+  alt="Frontend .NET Developer"
+  align="right"
+  width="280"
+/>
 
-<p align="left">
+## About Me 🌟
   
 ## About Me 🌟
   
