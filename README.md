@@ -10,11 +10,9 @@
   src="https://github.com/heidy1029/heidy1029/blob/main/Gitwomen.gif"
   alt="Frontend .NET Developer"
   align="right"
-  width="280"
+  width="200"
 />
 
-## About Me 🌟
-  
 ## About Me 🌟
   
 🎓 Multimedia Engineer | Frontend .NET Web & App Developer
