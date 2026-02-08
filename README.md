@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heidydiaza/)
 
-<p><img align="right" src="[https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif](https://github.com/heidy1029/heidy1029/blob/main/Female%20Employee%20Working%20on%20Data%20Security.gif)" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/heidy1029/heidy1029/blob/main/Gitwomen.gif" alt="adam-pw" /></p>
 
 <p align="left">
   
