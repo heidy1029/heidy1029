@@ -36,11 +36,11 @@
   </p>
 <br>
 ## Projects 💡
-<table>
-<tr> 
+<table> <tr> <!-- Blazing Pizza --> <td width="50%" valign="top"> <h3 align="center">🍕 Blazing Pizza — Blazor Web App (.NET)</h3>
+
   <div align="center">
     <a href="https://github.com/TU_USUARIO/TU_REPO_BLAZING_PIZZA" target="_blank">
-      <img src="https://github.com/heidy1029/Imagenes/bp1.PNG" width="380" alt="Blazing Pizza Preview">
+      <img src="https://github.com/TU_USUARIO/TU_USUARIO/blob/main/blazing-pizza-preview.png" width="380" alt="Blazing Pizza Preview">
     </a>
 
     <p>
@@ -61,35 +61,8 @@
     <li><strong>Aporte:</strong> Refactor de CSS, layout, scroll, carrito y checkout</li>
   </ul>
 </td>
-
-<!-- eSound -->
-<td width="50%" valign="top">
-  <h3 align="center">🔊 eSound — .NET MAUI App</h3>
-
-  <div align="center">
-    <a href="https://github.com/TU_USUARIO/TU_REPO_ESOUND" target="_blank">
-      <img src="https://github.com/TU_USUARIO/TU_USUARIO/blob/main/esound-preview.png" width="380" alt="eSound Preview">
-    </a>
-
-    <p>
-      <a href="https://github.com/TU_USUARIO/TU_REPO_ESOUND">
-        <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </p>
-  </div>
-
-  <p align="justify">
-    Aplicación multiplataforma desarrollada con <strong>.NET MAUI</strong>, orientada a la búsqueda y control de dispositivos de audio (bafles) por <strong>WiFi</strong>.  
-    Toda la información se obtiene mediante <strong>consumo de APIs</strong> e integra múltiples fuentes de reproducción.
-  </p>
-
-  <ul>
-    <li><strong>Stack:</strong> .NET MAUI · C# · MVVM · APIs</li>
-    <li><strong>Conectividad:</strong> Descubrimiento de dispositivos por WiFi</li>
-    <li><strong>Audio:</strong> Spotify · Música local · TuneIn</li>
-  </ul>
-</td>
-</tr> </table>
+<tr>
+<table>
 
 
 ---
