@@ -36,7 +36,8 @@
   </p>
 <br>
 ## Projects 💡
-
+<table>
+<tr> 
   <div align="center">
     <a href="https://github.com/TU_USUARIO/TU_REPO_BLAZING_PIZZA" target="_blank">
       <img src="https://github.com/TU_USUARIO/TU_USUARIO/blob/main/blazing-pizza-preview.png" width="380" alt="Blazing Pizza Preview">
@@ -88,7 +89,7 @@
     <li><strong>Audio:</strong> Spotify · Música local · TuneIn</li>
   </ul>
 </td>
-
+</tr> </table>
 
 
 ---
