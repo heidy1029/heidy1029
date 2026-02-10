@@ -40,7 +40,7 @@
 
   <div align="center">
     <a href="https://github.com/TU_USUARIO/TU_REPO_BLAZING_PIZZA" target="_blank">
-      <img src="https://github.com/TU_USUARIO/TU_USUARIO/blob/main/blazing-pizza-preview.png" width="380" alt="Blazing Pizza Preview">
+      <img src="https://github.com/heidy1029/heidy1029/blob/main/Imagenes/bp1.PNG" width="380" alt="Blazing Pizza Preview">
     </a>
 
     <p>
