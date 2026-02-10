@@ -80,10 +80,16 @@
         <img src="https://img.shields.io/badge/Portfolio-1B6FBE?style=for-the-badge&logo=lighthouse&logoColor=white" alt="Portfolio">
       </a>
     </p>
-    <p align="justify">
-      <strong>Money Tracker</strong> is a personal finance management application built with <strong>WPF in C#</strong> using the <strong>MVVM</strong> architectural pattern.
-      Designed to improve financial awareness and help users track their money with clarity and ease.
-    </p>
+     <p align="justify">
+    Aplicación multiplataforma desarrollada con <strong>.NET MAUI</strong>, orientada a la búsqueda y control de dispositivos de audio (bafles) por <strong>WiFi</strong>.  
+    Toda la información se obtiene mediante <strong>consumo de APIs</strong> e integra múltiples fuentes de reproducción.
+  </p>
+
+  <ul  align="justify">
+    <li><strong>Stack:</strong> .NET MAUI · C# · MVVM · APIs</li>
+    <li><strong>Conectividad:</strong> Descubrimiento de dispositivos por WiFi</li>
+    <li><strong>Audio:</strong> Spotify · Música local · TuneIn</li>
+  </ul>
   </div>
 </td>
 </tr>
