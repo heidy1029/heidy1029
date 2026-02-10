@@ -38,52 +38,69 @@
 ## Projects 💡
 
 <table>
-<tr>
-<!-- TranquilTurtle -->
-<td width="50%" valign="top" style="vertical-align:top;">
-  <h3 align="center">🎯 TranquilTurtle - Focus Blocker App in WPF</h3>
-  <div align="center"> <br>
-    <a href="https://github.com/MilenaRPotes/TranquilTurtle" target="_blank">
-      <img src="https://github.com/MilenaRPotes/MilenaRPotes/blob/main/FocusImage.png" width="400" height="250" alt="TranquilTurtle Preview">
-    </a>
-    <p>
-      <a href="https://github.com/MilenaRPotes/TranquilTurtle" target="_blank">
-        <img src="https://img.shields.io/badge/Code-FFFF00?style=for-the-badge&logo=github&logoColor=black" alt="Code">
-      </a>
-      <a href="https://portafoliomilenarpotes.netlify.app/pages/programacionp1" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-1B6FBE?style=for-the-badge&logo=lighthouse&logoColor=white" alt="Portfolio">
-      </a>
-    </p>
-    <p align="justify">
-      Focus timer app designed to help users block distractions and boost productivity.  
-      Uses a calming turtle mascot and countdown logic to encourage focused work sessions in a minimal and friendly interface.
-    </p>
-  </div>
-</td>
+  <tr>
+    <!-- Blazing Pizza -->
+    <td width="50%" valign="top">
+      <h3 align="center">🍕 Blazing Pizza — Blazor Web App (.NET)</h3>
 
-<!-- Money Tracker -->
-<td width="50%" valign="top" style="vertical-align:top;">
-  <h3 align="center">📊 Money Tracker - Personal Finance App in WPF (v1)</h3>
-  <div align="center">
-    <a href="https://github.com/MilenaRPotes/MoneyTracker" target="_blank">
-      <img src="https://github.com/MilenaRPotes/MilenaRPotes/blob/main/Money%20Tracker%20V1.png" width="400" height="250" alt="Money Tracker App">
-    </a>
-    <p>
-      <a href="https://github.com/MilenaRPotes/MoneyTracker" target="_blank">
-        <img src="https://img.shields.io/badge/Code-FFFF00?style=for-the-badge&logo=github&logoColor=black" alt="Code">
-      </a>
-      <a href="https://portafoliomilenarpotes.netlify.app/pages/programacionp2" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-1B6FBE?style=for-the-badge&logo=lighthouse&logoColor=white" alt="Portfolio">
-      </a>
-    </p>
-    <p align="justify">
-      <strong>Money Tracker</strong> is a personal finance management application built with <strong>WPF in C#</strong> using the <strong>MVVM</strong> architectural pattern.
-      Designed to improve financial awareness and help users track their money with clarity and ease.
-    </p>
-  </div>
-</td>
-</tr>
+      <div align="center">
+        <a href="https://github.com/TU_USUARIO/TU_REPO_BLAZING_PIZZA" target="_blank">
+          <img src="https://github.com/TU_USUARIO/TU_USUARIO/blob/main/blazing-pizza-preview.png" width="400" alt="Blazing Pizza Preview">
+        </a>
+
+        <p>
+          <a href="https://github.com/TU_USUARIO/TU_REPO_BLAZING_PIZZA" target="_blank">
+            <img src="https://img.shields.io/badge/Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="Code">
+          </a>
+          <a href="https://TU_PORTAFOLIO/blazing-pizza" target="_blank">
+            <img src="https://img.shields.io/badge/Live%20Preview-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Preview">
+          </a>
+        </p>
+
+        <p align="justify">
+          Proyecto basado en un laboratorio de <strong>Microsoft Learn</strong>. Más allá de seguir la guía, realicé ajustes y correcciones en partes que ya no funcionaban igual, y rediseñé la interfaz para lograr una experiencia más moderna y comercial.
+        </p>
+
+        <ul align="left">
+          <li><strong>Stack:</strong> .NET · C# · Blazor · ASP.NET</li>
+          <li><strong>UI:</strong> Layout tipo e-commerce · Responsive · Componentes reutilizables</li>
+          <li><strong>Mejoras:</strong> CSS organizado, scroll/layout, carrito y checkout modernizados</li>
+        </ul>
+      </div>
+    </td>
+
+    <!-- eSound -->
+    <td width="50%" valign="top">
+      <h3 align="center">🔊 eSound — .NET MAUI App (WiFi + APIs)</h3>
+
+      <div align="center">
+        <a href="https://github.com/TU_USUARIO/TU_REPO_ESOUND" target="_blank">
+          <img src="https://github.com/TU_USUARIO/TU_USUARIO/blob/main/esound-preview.png" width="400" alt="eSound Preview">
+        </a>
+
+        <p>
+          <a href="https://github.com/TU_USUARIO/TU_REPO_ESOUND" target="_blank">
+            <img src="https://img.shields.io/badge/Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="Code">
+          </a>
+          <a href="https://TU_PORTAFOLIO/esound" target="_blank">
+            <img src="https://img.shields.io/badge/Case%20Study-3B82F6?style=for-the-badge&logo=lighthouse&logoColor=white" alt="Case Study">
+          </a>
+        </p>
+
+        <p align="justify">
+          Aplicación multiplataforma desarrollada con <strong>.NET MAUI</strong> que permite descubrir y gestionar bafles/dispositivos de audio por <strong>WiFi</strong>. Integra consumo de APIs y múltiples fuentes de reproducción.
+        </p>
+
+        <ul align="left">
+          <li><strong>Stack:</strong> .NET MAUI · C# · MVVM · APIs</li>
+          <li><strong>Conectividad:</strong> Descubrimiento por WiFi</li>
+          <li><strong>Audio:</strong> Spotify · Música local · TuneIn</li>
+        </ul>
+      </div>
+    </td>
+  </tr>
 </table>
+
 
 ---
 ## &nbsp;GitHub Analytics ⚙️
