@@ -61,9 +61,35 @@
     <li><strong>Aporte:</strong> Refactor de CSS, layout, scroll, carrito y checkout</li>
   </ul>
 </td>
+<!-- eSound -->
+<td width="50%" valign="top">
+  <h3 align="center">🔊 eSound — .NET MAUI App</h3>
+
+  <div align="center">
+    <a href="https://github.com/TU_USUARIO/TU_REPO_ESOUND" target="_blank">
+      <img src="https://github.com/heidy1029/heidy1029/blob/main/Imagenes/Android%20Emulator%20-%20pixel_7_-_api_35_5554%202025-08-12%2019-21-45.mp4" width="380" alt="eSound Preview">
+    </a>
+
+    <p>
+      <a href="https://github.com/TU_USUARIO/TU_REPO_ESOUND">
+        <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </p>
+  </div>
+
+  <p align="justify">
+    Aplicación multiplataforma desarrollada con <strong>.NET MAUI</strong>, orientada a la búsqueda y control de dispositivos de audio (bafles) por <strong>WiFi</strong>.  
+    Toda la información se obtiene mediante <strong>consumo de APIs</strong> e integra múltiples fuentes de reproducción.
+  </p>
+
+  <ul>
+    <li><strong>Stack:</strong> .NET MAUI · C# · MVVM · APIs</li>
+    <li><strong>Conectividad:</strong> Descubrimiento de dispositivos por WiFi</li>
+    <li><strong>Audio:</strong> Spotify · Música local · TuneIn</li>
+  </ul>
+</td>
 <tr>
 <table>
-
 
 ---
 ## &nbsp;GitHub Analytics ⚙️
