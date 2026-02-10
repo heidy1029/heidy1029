@@ -35,34 +35,6 @@
 <!--Intro end-->
   </p>
 <br>
-## Projects 💡
-<div align="center">
-  <h1 align="center">Hi there I’m Milena 👋</h1>
-</div>
-
-<img src="https://github.com/MilenaRPotes/MilenaRPotes/blob/main/BannerPortafolioV2.png" alt="Milena Portfolio Banner">
-
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://emilenarpotes.itch.io)
-[![Instagram Dev](https://img.shields.io/badge/Instagram%20Dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/milenarpotesdev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milenarpotes/)
-
-## About Me 🌟
-
-🚀 Software Developer | Unity Programmer 
-💻 C# Developer specialized in building robust and scalable applications with:
-- ⚙️ WPF / WinForms / .NET MAUI – Desktop UI with MVVM pattern
-- 🌐 ASP.NET Core & REST APIs – Backend services and data processing
-- 💾 Entity Framework & SQLite – Reliable data persistence
-- 🧪 MVP & MVVM Architecture – Clean code organization and testable logic
-- 📦 NuGet & GitHub Packages – Package management and modularization
-- 🔐 Authentication & App Locking – App-level security and session control
-- 🧠 Problem-Solving Mindset – Focused on performance and user experience
-
-🎮 Unity Programmer creating immersive and interactive experiences for games:
-- 2D & 3D Game Development
-- Gameplay Mechanics
-- Assembly of 2D and 3D Environments
----
 
 ## Projects 💡
 
@@ -79,7 +51,7 @@
       <a href="https://github.com/heidy1029/BlazzingPizza" target="_blank">
         <img src="https://img.shields.io/badge/Code-FFFF00?style=for-the-badge&logo=github&logoColor=black" alt="Code">
       </a>
-      <a href="https://portafoliomilenarpotes.netlify.app/pages/programacionp1" target="_blank">
+      <a href="https://" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-1B6FBE?style=for-the-badge&logo=lighthouse&logoColor=white" alt="Portfolio">
       </a>
     </p>
@@ -88,7 +60,7 @@
     Durante el desarrollo fue necesario <strong>analizar, corregir y adaptar partes que ya no funcionaban igual</strong>, además de rediseñar completamente la interfaz para lograr una experiencia más moderna y comercial.
   </p>
 
-  <ul>
+  <ul align="justify">
     <li><strong>Stack:</strong> .NET · C# · Blazor · ASP.NET</li>
     <li><strong>Frontend:</strong> UI tipo e-commerce · Responsive · Componentes reutilizables</li>
     <li><strong>Aporte:</strong> Refactor de CSS, layout, scroll, carrito y checkout</li>
