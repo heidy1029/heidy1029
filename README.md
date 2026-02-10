@@ -70,16 +70,13 @@
 
 <!-- Money Tracker -->
 <td width="50%" valign="top" style="vertical-align:top;">
-  <h3 align="center">📊 Money Tracker - Personal Finance App in WPF (v1)</h3>
+  <h3 align="center">🔊 eSound — .NET MAUI App</h3>
   <div align="center">
-    <a href="https://github.com/MilenaRPotes/MoneyTracker" target="_blank">
-      <img src="https://github.com/MilenaRPotes/MilenaRPotes/blob/main/Money%20Tracker%20V1.png" width="400" height="250" alt="Money Tracker App">
+    <a href="https://github.com/heidy1029/esoundr" target="_blank">
+      <img src="https://github.com/heidy1029/heidy1029/blob/main/Imagenes/esound.PNG" width="400" height="250" alt="Money Tracker App">
     </a>
     <p>
-      <a href="https://github.com/MilenaRPotes/MoneyTracker" target="_blank">
-        <img src="https://img.shields.io/badge/Code-FFFF00?style=for-the-badge&logo=github&logoColor=black" alt="Code">
-      </a>
-      <a href="https://portafoliomilenarpotes.netlify.app/pages/programacionp2" target="_blank">
+      <a href="https://heidyportafolio.netlify.app/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-1B6FBE?style=for-the-badge&logo=lighthouse&logoColor=white" alt="Portfolio">
       </a>
     </p>
